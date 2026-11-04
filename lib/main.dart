@@ -47,7 +47,7 @@ class MainApp extends StatelessWidget {
               ElevatedButton(
                   onPressed: (){},
                   child: Text('Register')),
-              SizedBox(height: 8.0,)
+              SizedBox(height: 8.0,)//added comments
             ],
           ),
         ),
